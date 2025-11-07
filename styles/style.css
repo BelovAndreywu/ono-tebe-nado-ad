@@ -10,11 +10,10 @@
     gap:32px;
 }
 
-
 .header__links-list-item {
     font-size: 18px;
     list-style: circle;
-} 
+}
 
 .header__links-list-item:first-child {
     list-style: none;
